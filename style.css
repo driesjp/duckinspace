@@ -1,0 +1,1 @@
+body,html{margin:0;padding:0;width:100%;height:100%;overflow:hidden}#background-container{position:absolute;width:100%;height:100%;background-image:url('assets/bg.gif');background-repeat:repeat}#moving-image{position:absolute;width:150px;height:auto;will-change:transform}
